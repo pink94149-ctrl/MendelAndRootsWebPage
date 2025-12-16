@@ -954,3 +954,8 @@ section,
 #contact .info-item i {
   margin-right: 0 !important;
 }
+
+#header {
+    background-color: rgba(8, 12, 4, 0.95); /* matches your dark theme */
+    backdrop-filter: blur(6px);            /* optional: modern soft blur */
+}
