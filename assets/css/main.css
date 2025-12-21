@@ -955,8 +955,14 @@ section,
   margin-right: 0 !important;
 }
 
+
 #header {
-  background-color: rgba(8, 12, 4, 1);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+  background-color: #080c04;
+  box-shadow: none;
 }
 
+
+section,
+.section {
+  scroll-margin-top: 70px;
+}
